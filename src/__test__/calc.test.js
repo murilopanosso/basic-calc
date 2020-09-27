@@ -1,4 +1,4 @@
-const calc = require("../calc");
+const calc = require("../index");
 
 describe('Add Operation', () => {
     test('given two numbers it should return the result of adding these two numbers', () => {
